@@ -1,9 +1,10 @@
 body{
-    
+    background-color: white;
 }
 
 p{
-    
+    text-align: justify;
+    margin-left: 20px;
 }
 
 nav{
